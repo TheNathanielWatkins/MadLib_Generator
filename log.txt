@@ -1,0 +1,4 @@
+Date/Time added:  | U | if it is a user created MadLib
+               or | S | if it is a saved completed MadLib
+               or | E | if there was an Unexpected Result (for the variable pos)
+------------------|   |-----------------------------------------------------------------------------
